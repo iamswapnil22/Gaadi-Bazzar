@@ -56,7 +56,3 @@
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-**Acknowledgments:** Special thanks to [Data Source] for providing the car price dataset.
-
-**Acknowledgments:** Special thanks to [Data Source] for providing the car price dataset.
